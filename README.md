@@ -1,5 +1,6 @@
 # Banking Telemarketing!
-My Solution for the problem statement for UpGrad Assignment.
+This repository contains a basic EDA for a bank telemarketing campaign. Dataset is taken from 
+UCI Machine Learning Repository.
 
 ![tree](https://user-images.githubusercontent.com/21143936/55569387-1b971680-571f-11e9-8e0e-a162ed02af44.jpg)
  <center> XGBoost Decision Tree </center>
